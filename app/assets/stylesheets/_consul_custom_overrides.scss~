@@ -10,4 +10,3 @@
 //
 // The variables you can override are defined in the
 // `_settings.scss` and `_consul_settings.scss` files.
-$brand: #005293;
